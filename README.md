@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DynamiCrafter-colab/blob/main/DynamiCrafter_colab.ipynb) | DynamiCrafter_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DynamiCrafter-colab/blob/main/DynamiCrafter_colab.ipynb) | DynamiCrafter_colab (Pro Colab 😭)
 
 ## Main Repo
 https://github.com/Doubiiu/DynamiCrafter
