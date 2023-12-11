@@ -21,6 +21,9 @@ https://doubiiu.github.io/projects/DynamiCrafter/
 
 ## Output
 
+https://github.com/camenduru/DynamiCrafter-colab/assets/54370274/aaa5e4aa-3efa-4e27-bb1b-e087d4afc24f
+
+https://github.com/camenduru/DynamiCrafter-colab/assets/54370274/d8307c1a-f109-4635-82d1-4b426e4b69cc
 
 ## Sponsor
 https://modelslab.com
